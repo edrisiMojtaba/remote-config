@@ -1,5 +1,5 @@
 {
-  "blink_interval": 1000,
+  "blink_interval": 500,
   "ota_interval": 30000,
   "version": "1.0.0"
 }
